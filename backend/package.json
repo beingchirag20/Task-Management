@@ -1,0 +1,36 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend folder for Task Management. Stores all the required backend directories.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beingchirag20/Task-Management.git"
+  },
+  "keywords": [
+    "Task",
+    "Management",
+    "node",
+    "react",
+    "MERN",
+    "Mongodb",
+    "Express",
+    "project"
+  ],
+  "author": "Chirag Vaibhav Rane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beingchirag20/Task-Management/issues"
+  },
+  "homepage": "https://github.com/beingchirag20/Task-Management#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2",
+    "mongose": "^0.0.2-security"
+  }
+}
